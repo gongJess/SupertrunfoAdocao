@@ -52,7 +52,7 @@
                 background-repeat: no-repeat;
                 background-position-x: 10px;
                 background-position-y: 5px;
-                border-radius: 33px;
+                border-radius: 15px;
             }
             
             #carta-jogador h3 {
@@ -121,7 +121,7 @@
                 left: 37px;
                 font-weight: bold;
                 text-transform: uppercase;
-                color: white;
+                color: black;
             }
             
             #cartas {
